@@ -1,0 +1,16 @@
+li:hover {
+  background-color: pink;
+}
+
+li .glyphicon:hover {
+  color: rgb(215, 130, 130);
+}
+
+li .list-item {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.glyphicon-remove {
+  cursor: pointer;
+}
